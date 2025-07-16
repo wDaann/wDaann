@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wDaann/wDaann/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" height="200" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
 
 ###
