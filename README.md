@@ -1,8 +1,12 @@
-<h1 align="left">//Welcome to my GitHub🌠<br><br>ᕼᥱꙆꙆo_ᙏყ_ᙁᥲຕᥱ_Ꙇ⳽ = 🌊ωᙃᥲᥲᥒᥒ🪐<br><br>ᙅoᥒtᥱxt = "Ƴoᥙ ᥲɾᥱ ƒɾᥱᥱ ᥲᥒᑯ ωᥱꙆᥴoຕᥱ to Ꙇᥱᥲɾᥒ ᥲᥒᑯ tᥲƙᥱ ωᖾᥲt ყoᥙ ᥒᥱᥱᑯ"🌌</h1>
+<h1 align="left">// Welcome to my Github🌠<br><br>hello_my_name_is = 🌊ωᙃᥲᥲᥒᥒ🪐<br><br>context = "Ƴoᥙ ᥲɾᥱ ƒɾᥱᥱ ᥲᥒᑯ ωᥱꙆᥴoຕᥱ to Ꙇᥱᥲɾᥒ ᥲᥒᑯ tᥲƙᥱ ωᖾᥲt ყoᥙ ᥒᥱᥱᑯ"🌌</h1>
 
 ###
 
-<div align="left">
+<img align="right" height="255" src="https://media.tenor.com/ssUL40bEJYoAAAAM/dr-stone-senku-ishigami.gif"  />
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
@@ -19,44 +23,37 @@
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<div align="center">
+  <a href="https://www.instagram.com/wdaann?igsh=MXN2cHJhbndqOGFlZA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/wdaann" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="220" src="https://media.tenor.com/ssUL40bEJYoAAAAM/dr-stone-senku-ishigami.gif"  />
-
-###
-
-<img align="left" height="200" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
+<img align="left" height="345" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/5crifeslnbm7ixkvwt9v1sohm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5crifeslnbm7ixkvwt9v1sohm&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5crifeslnbm7ixkvwt9v1sohm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
