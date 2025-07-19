@@ -1,9 +1,3 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="left">// Welcome to my Github🌠<br><br>hello_my_name_is = 🌊ωᙃᥲᥲᥒᥒ🪐<br><br>context = "Ƴoᥙ ᥲɾᥱ ƒɾᥱᥱ ᥲᥒᑯ ωᥱꙆᥴoຕᥱ to Ꙇᥱᥲɾᥒ ᥲᥒᑯ tᥲƙᥱ ωᖾᥲt ყoᥙ ᥒᥱᥱᑯ"🌌</h1>
 
 ###
@@ -53,14 +47,16 @@ Fork on Github
 
 ###
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/5crifeslnbm7ixkvwt9v1sohm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=5crifeslnbm7ixkvwt9v1sohm&count=5" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
 </div>
 
 ###
