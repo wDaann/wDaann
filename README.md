@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="270" src="https://media.tenor.com/ssUL40bEJYoAAAAM/dr-stone-senku-ishigami.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
   <img width="50" />
@@ -47,14 +43,20 @@
 
 ###
 
-<img align="left" height="250" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
+<img align="right" height="270" src="https://media.tenor.com/ssUL40bEJYoAAAAM/dr-stone-senku-ishigami.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/5crifeslnbm7ixkvwt9v1sohm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5crifeslnbm7ixkvwt9v1sohm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/5crifeslnbm7ixkvwt9v1sohm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5crifeslnbm7ixkvwt9v1sohm&count=5" alt="Spotify recently played"  />
-  </a>
+  <img height="250" src="https://i.pinimg.com/originals/d1/01/a9/d101a9b5c1615edd1d938566e603df9f.gif"  />
 </div>
 
 ###
